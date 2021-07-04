@@ -1,3 +1,4 @@
+ca.*
 tls.crt
 tls.key
 pizza-crd.yaml
